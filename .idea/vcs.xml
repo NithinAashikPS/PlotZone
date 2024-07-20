@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/bench/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/SQLiteCpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/SQLiteCpp/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/alfons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/css-color-parser-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/earcut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/earcut/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/geojson-vt-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/harfbuzz-icu-freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/isect2d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/variant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/core/deps/yaml-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/tangram-es/platforms/common/glfw" vcs="Git" />
+  </component>
+</project>
